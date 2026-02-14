@@ -1,15 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Creating a Private Subnet
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-private)
-
-**Author:** ElHalouf  
-**Email:** shakyleboss@gmail.com
-
----
-
-## Creating a Private Subnet
 
 ![Image](http://learn.nextwork.org/lively_blue_beautiful_jellyfish/uploads/aws-networks-private_afe1fdbd)
 
@@ -17,9 +6,6 @@
 
 ## Introducing Today's Project!
 
-### What is Amazon VPC?
-
-...
 
 ### How I used Amazon VPC in this project
 
@@ -31,13 +17,9 @@ I created a private route table. I also made this subnet private by assigning it
 
 I created a private network ACL: Then, I set up custom network ACLs to control inbound and outbound traffic for this private subnet, denying all traffic by default.
 
-### One thing I didn't expect in this project was...
 
-...
+### This project took me 1 hour
 
-### This project took me...
-
-This project took me 1 hour
 
 ---
 
